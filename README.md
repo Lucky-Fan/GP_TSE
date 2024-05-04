@@ -1,7 +1,7 @@
 # GP_TSE
 The code and data for the paper:
 - Wu, F., Cheng, Z., Chen, H., Qiu, T. Z., & Sun, L. (2023). [Traffic state estimation from vehicle trajectories with anisotropic gaussian processes](https://doi.org/10.1016/j.trc.2024.104646) Transportation Research Part C: Emerging Technologies, 163, 104646. 
-- Wu, F., Cheng, Z., Chen, H., Qiu, T. Z., & Sun, L. (2023). [Traffic State Estimation with Anisotropic Gaussian Processes from Vehicle Trajectories](https://arxiv.org/abs/2303.02311). arXiv preprint arXiv:2303.02311.
+
 
 ![image](data//intro.png)
 
